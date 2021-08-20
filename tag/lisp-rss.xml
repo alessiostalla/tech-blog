@@ -1,2 +1,2 @@
 <?xml version="1.0"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"> <channel> <title>Alessio Stalla&#039;s tech and community blog</title> <link></link> <atom:link href="/rss.xml" rel="self" type="application/rss+xml" /> <language>en-us</language> <pubDate>Fri, 20 Aug 2021 22:09:03 +0200</pubDate>  </channel> </rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"> <channel> <title>Alessio Stalla&#039;s tech and community blog</title> <link>https://alessiostalla.github.io/tech-blog/</link> <atom:link href="https://alessiostalla.github.io/tech-blog//rss.xml" rel="self" type="application/rss+xml" /> <language>en-us</language> <pubDate>Fri, 20 Aug 2021 22:12:05 +0200</pubDate>  </channel> </rss>

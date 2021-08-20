@@ -1,2 +1,2 @@
 <?xml version="1.0"?>
-<feed xmlns="http://www.w3.org/2005/Atom"> <title>Alessio Stalla&#039;s tech and community blog</title> <link href="https://alessiostalla.github.io/tech-blog/"/> <link type="application/atom+xml" rel="self" href="https://alessiostalla.github.io/tech-blog//atom.xml"/> <updated>Fri, 20 Aug 2021 22:12:05 +0200</updated> <author> <name>Alessio Stalla</name> </author>  </feed>
+<feed xmlns="http://www.w3.org/2005/Atom"> <title>Alessio Stalla&#039;s tech and community blog</title> <link href="https://alessiostalla.github.io/tech-blog"/> <link type="application/atom+xml" rel="self" href="https://alessiostalla.github.io/tech-blog/atom.xml"/> <updated>Fri, 20 Aug 2021 22:13:07 +0200</updated> <author> <name>Alessio Stalla</name> </author>  </feed>

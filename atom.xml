@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom"> <title>Alessio Stalla&#039;s tech and community blog</title> <link href=""/> <link type="application/atom+xml" rel="self" href="/atom.xml"/> <updated>Fri, 20 Aug 2021 22:09:03 +0200</updated> <author> <name>Alessio Stalla</name> </author> <entry> <link type="text/html" rel="alternate" href="/posts/Technologies-for-a-distributed-blog.html"/> <title>Technologies for a distributed blog</title> <published>2021-08-20 19:15:00</published> <updated>2021-08-20 19:15:00</updated> <author> <name>Alessio Stalla</name> <uri></uri> </author> <content type="html">&lt;p&gt;So in the previous entry I set the goal of a distributed blog.
+How would one implement it?&lt;/p&gt;
+
+&lt;p&gt;I decided to go to a static site generator. And since I&#039;m a Common Lisp hobbyist I chose Coleslaw, to learn it and possibly improve it if necessary. However, one may use whatever (static) blogware they want, or write html files by hand.&lt;/p&gt;
+
+&lt;p&gt;At the same time, I studied a bit the distributed web ecosystem and found out two promising technologies:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;IPFS&lt;/li&gt;
+&lt;li&gt;Hypercore protocol / Beaker browser&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the following posts I will describe my experience with them, as a complete novice. I guess this won&#039;t stay relevant for long as technology evolves, but it may still inspire or teach something.&lt;/p&gt;
+
+&lt;p&gt;That&#039;s all for now!&lt;/p&gt;
+</content> </entry><entry> <link type="text/html" rel="alternate" href="/posts/A-distributed-blog.html"/> <title>A distributed blog</title> <published>2021-07-28 18:50:00</published> <updated>2021-07-28 18:50:00</updated> <author> <name>Alessio Stalla</name> <uri></uri> </author> <content type="html">&lt;p&gt;So my first long-term goal is to be able to run a blog and serve it in a distributed way, so that it does not have to sit on some server which is on 24/7.&lt;/p&gt;
+
+&lt;p&gt;Ideally this blog could also become a &amp;quot;social node&amp;quot; i.e. a point where I can share stuff with people and get notified of stuff they share with me, and together we can provide the redundancy required to have our stuff online when it can be useful to other people. And I&#039;m not talking only of information publishing but interactions as well. Like, leaving comments. My blog may be offline, so someone else will have to keep the comment and pass it to me when we both are online. Stuff like that.&lt;/p&gt;
+
+&lt;p&gt;But that&#039;s a far-fetched goal. First, I&#039;ll just concentrate on serving static information. The next posts will be about different solutions for that. And I&#039;m really writing this as some sort of journal, not as technical articles, I&#039;m not proofreading or anything like that, just a stream of thought, like a conversation at a pub between nerds. Hopefully not just nerds.&lt;/p&gt;
+</content> </entry><entry> <link type="text/html" rel="alternate" href="/posts/The-quest-for-a-new-web.html"/> <title>The quest for a new web?</title> <published>2021-07-26 16:46:10</published> <updated>2021-07-26 16:46:10</updated> <author> <name>Alessio Stalla</name> <uri></uri> </author> <content type="html">&lt;p&gt;So, I opened this blog to share my ideas about a number of technical issues or ideas and possibilities. So that someone else may learn from them or take inspiration or teach me something I don&#039;t know, show the shortcomings of some idea, etc.&lt;/p&gt;
+
+&lt;p&gt;One idea I&#039;ve been thinking about lately is something that I found to be called the decentralized web. The www dream was to democratize the production and the fruition of information, but I think it failed to some extent.&lt;/p&gt;
+
+&lt;p&gt;We expected everybody to have their own personal space online – first a personal page or website, then a blog. Some even thought that one day most people would have run their own webserver. But all of that requires a widespread level of technical proficiency that we never achieved, and if everybody were to host their own server, everybody would have to have a machine always on in their home or office, which is wasteful.&lt;/p&gt;
+
+&lt;p&gt;Instead, we now use huge private platforms we call social networks to publish and consume content, and so we&#039;re under the control of multinational corporations that own the infrastructure, the software and the data, and sustain themselves by pushing advertising and political propaganda onto us. They claim to be, or be transitioning towards being, carbon neutral; still, their enormous, always-on data centers consume a lot of resources, including energy and water for cooling.&lt;/p&gt;
+
+&lt;p&gt;Does another way exist? That&#039;s what I kept asking myself. I now have some understanding of existing technologies and some ideas of what I&#039;d like to have. I will explore them in subsequent posts.&lt;/p&gt;
+
+&lt;p&gt;Also here I&#039;d like to deposit the ideas that pop out in my head that I would love to see picked up and developed by someone else, as I don&#039;t have the time, energy, or required skill set.&lt;/p&gt;
+</content> </entry><entry> <link type="text/html" rel="alternate" href="/posts/2021-07-25.html"/> <title>2021-07-25</title> <published>2021-07-25 16:37:00</published> <updated>2021-07-25 16:37:00</updated> <author> <name>Alessio Stalla</name> <uri></uri> </author> <content type="html">&lt;p&gt;This is my first Beaker (Hyperdrive) hosted post and website, generated with Coleslaw. Looking great so far!&lt;/p&gt;
+
+&lt;!--more--&gt;
+</content> </entry> </feed>
